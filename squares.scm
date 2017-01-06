@@ -5,3 +5,5 @@
      (square y)))
 
 (sum-of-squares 3 4)
+
+(sum-of-squares (+ 5 3) (* 4 10))
